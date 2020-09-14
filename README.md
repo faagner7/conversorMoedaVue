@@ -1,4 +1,7 @@
-# hello-world
+# Conversor de Moedas
+
+Projeto de um conversor de moedas em VueJS consumindo a API https://free.currencyconverterapi.com/ apenas para estudos.
+
 
 ## Project setup
 ```
