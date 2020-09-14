@@ -1,4 +1,7 @@
-# hello-world
+# Conversor de Moedas
+
+Projeto de um conversor de moedas em VueJS apenas para estudos
+
 
 ## Project setup
 ```
